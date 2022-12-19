@@ -1,0 +1,82 @@
+/*we can use display:inline to change block elements into inline elements*/
+/*16px=100%*/
+body
+{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color:  #E4F9F5;
+}
+h1
+{
+    font-family: 'Sacramento', cursive;
+    font-size: 300%;
+
+    margin-top: 0px;
+    margin-left: px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.Top
+{
+    background-color: #E4F9F5;
+}
+.C1
+{
+    height: 10%;
+    width: 10%;
+    position: relative;
+    top: 80px;
+    left: 300px;
+}
+.C2
+{
+    height: 10%;
+    width: 10%;
+    position: relative;
+    top: 70px;
+    right: 480px;
+    
+}
+.mountain
+{
+    height: 70%;
+    width: 70%;
+    position: relative;
+    bottom: 7em;
+}
+.CIm
+{
+    height: 50%;
+    width: 50%;
+    border-radius: 80%;
+}
+.dev
+{
+    height: 50%;
+    width: 50%;
+    border-radius: 80%;
+}
+.IIT
+{
+    text-decoration: underline;
+}
+
+.Middle
+{
+    background-color: #E4F9F5;
+}
+.Bottom
+{
+    background-color: #E4F9F5;
+}
